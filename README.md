@@ -31,7 +31,7 @@ Currently pursuing dual degrees in **Software Engineering** and **Software Analy
 
 **Databases**  
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Mongo](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -52,7 +52,8 @@ Currently pursuing dual degrees in **Software Engineering** and **Software Analy
 ---
 
 ## 📞 Let's Connect!  
-- 💼 [LinkedIn](https://www.linkedin.com) *(Insert your LinkedIn URL)*  
-- 📧 [Email](mailto:your-email@example.com) *(Insert your email)*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 
+---
 
