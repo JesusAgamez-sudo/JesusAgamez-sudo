@@ -52,7 +52,7 @@ Currently pursuing dual degrees in **Software Engineering** and **Software Analy
 ---
 
 ## 📞 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) (https://www.linkedin.com/in/jesus-david-agamez-barrios-51a080173/)  
+[![LinkedIn](https://img.shields.io/badge/(https://www.linkedin.com/in/jesus-david-agamez-barrios-51a080173/) 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jedakimagamez@gmail.com)  
 
 ---
