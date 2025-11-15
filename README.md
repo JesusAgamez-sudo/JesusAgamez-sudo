@@ -1,59 +1,73 @@
-# Hi there! 👋 I'm Jesús David Agámez Barrios  
+<h1 align="left">Hey 👋 What's Up?<br><br>I'm Jeda — a Fullstack Developer in training and Cloud Solutions Architect focused on building high-performance applications using modern technologies.<br><br>I work with React, Next.js, Node.js, AWS, Docker and SQL/NoSQL databases.  <br>I'm currently creating advanced professional projects to strengthen my portfolio.<br><br>💡 I love learning, building, and solving real problems with clean, scalable architecture.<br>🚀 My goal: become a top-tier developer and cloud architect.<br><br>Let's connect!</h1>
 
-🎓 **Software Engineering Student** | 🌐 **Cloud Architecture Enthusiast** | 💻 **Fullstack Developer**
+###
 
----
+<div align="center">
+  <img height="200" src="https://private-user-images.githubusercontent.com/129820204/433014303-77f249fa-d3bf-4ece-aad2-7fe374d1217f.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMyMjc4ODAsIm5iZiI6MTc2MzIyNzU4MCwicGF0aCI6Ii8xMjk4MjAyMDQvNDMzMDE0MzAzLTc3ZjI0OWZhLWQzYmYtNGVjZS1hYWQyLTdmZTM3NGQxMjE3Zi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTExNVQxNzI2MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZjNmY2E1NDk2YzdhODAyM2M3ZDM5ZTcxNjhiM2E5YThiYjViMDczNDg5OWY1Mjg0ODY1MmZlMWJlNDA3NzMxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.b8CmhyuyMi_LZ7th2hDeDZsUJaurvql4LIsCz6cQ_f0"  />
+</div>
 
-## 🌟 About Me  
-I'm a 27-year-old passionate about technology, with solid knowledge in **cloud architecture** using **Amazon Web Services (AWS)**, and experience in both **backend** and **frontend development**.  
-Currently pursuing dual degrees in **Software Engineering** and **Software Analysis and Development**.  
+###
 
-🚀 **Future Goals:** Create multilingual and cross-platform applications using diverse technologies and languages.  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo"  />
+</div>
 
----
+###
 
-## 🛠️ Skills  
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+</div>
 
-**Cloud Architecture**  
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=devops&logoColor=white)  
+###
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JesusAgamez-sudo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JesusAgamez-sudo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=JesusAgamez-sudo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JesusAgamez-sudo&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest-api&logoColor=white)  
+###
 
-**Databases**  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
-![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JesusAgamez-sudo/JesusAgamez-sudo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JesusAgamez-sudo/JesusAgamez-sudo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JesusAgamez-sudo/JesusAgamez-sudo/output/pacman-contribution-graph.svg">
+</picture>
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-
----
-
-## 📜 Certifications  
-- ![AWS](https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) **AWS Certified (Coursera)**  
-- ![IBM](https://img.shields.io/badge/DevOps%20by%20IBM-02569B?style=for-the-badge&logo=ibm&logoColor=white) **DevOps Certified (IBM via Coursera)**  
-
----
-
-## 🎯 Current Endeavors  
-- 🌟 Active participant on **HackerRank** and **LeetCode**, sharpening problem-solving and algorithm skills.  
-- 🛠️ Exploring **multilingual and cross-platform app development**.  
-
----
-
-## 📞 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
-
----
-
+###
